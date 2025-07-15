@@ -1,0 +1,18 @@
+{
+  "new_checkout_ui": {
+    "description": "Enable new checkout flow",
+    "status": "active"
+  },
+  "dark_mode": {
+    "description": "Enable dark theme",
+    "status": "inactive"
+  },
+  "beta_payment_gateway": {
+    "description": "Use beta payment integration",
+    "status": "active"
+  },
+  "faster_image_loading": {
+    "description": "Optimize image loading for homepage",
+    "status": "active"
+  }
+}
